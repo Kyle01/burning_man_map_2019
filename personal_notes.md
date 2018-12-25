@@ -4,9 +4,14 @@
 This will maintain my initial organization for my burning man map project for 2019
 
 ## Important Dates 
-* January 27 - Amateur Radio test 
-* February 21 - Jun 8: Art submission for burning man 
-* 
+* January 27 :  Amateur Radio test 
+* February 13 - February 23 : Group Ticket Registration
+* February 28 - March 2 : Group Ticket Sales
+* March 21 - March 23 : Main Sale Registration
+* March 28 : Main sale 
+* February 21 - Jun 8 : Art submission for burning man 
+* August 25 - September 2  : Burning Man 
+
 
 ## Links 
 
@@ -18,4 +23,3 @@ This will maintain my initial organization for my burning man map project for 20
 * http://ncvec.org/downloads/2018-2022%20Tech%20Pool%202nd%20Errata%2002122018.pdf
 
 ## Miscellaneous items 
-* Centered Pentagonal number 
